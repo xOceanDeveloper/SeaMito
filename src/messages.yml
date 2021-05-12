@@ -1,0 +1,39 @@
+Mensagens:
+  Mito_Atual: '&eO mito atual é &c ${mito}'
+  Jogador_Ja_Setado: '&c&lERRO &eO jogador ${target} ja foi setado!'
+  Jogador_Ja_Removido: '&c&lERRO &eO jogador ${target} ja foi removido!'
+  Jogador_Inexistente: '&c&lERRO &eEste jogador nao existe ou esta offline!'
+
+  Ajuda_Membro:
+    - '&b&l    SEAMITO    '
+    - ''
+    - '  Comandos:'
+    - ''
+    - '&b    /mito &7- &6Ver o mito atual do servidor'
+    - ''
+  Ajuda_Admin:
+    - '&b&l    SEAMITO ADMIN    '
+    - ''
+    - '&e  Comandos:'
+    - ''
+    - '&e    /mito &7- &6Ver o mito atual do servidor'
+    - '&e    /mito setar <jogador> &7- &6Setar o mito de determinado jogador'
+    - '&e    /mito remover <jogador> &7- &6Remover o mito de determinado jogador'
+    -
+
+  Title:
+    Ativar: true
+    Ganhador:
+      Title: '&aParabens você se tornou o novo mito do pvp!'
+      Sub-Title: '&e ${novo_mito}'
+    Perdedor:
+      Title: 'Ah que pena! Voce perdeu sua tag Mito!'
+      Sub-Title: '&e Novo mito &7 ${novo_mito}'
+    Todos:
+      Title: '&e&lPARABENS!'
+      Sub-Title: 'O jogador ${novo_mito} se tornou MITO!'
+  Message:
+    Ativar: false
+    Ganhador: '&aParabens você é o novo mito do pvp! <nl> &b ${novo_mito}'
+    Perdedor: '&a Ah que pena, você perdeu sua tag de mito! <nl> Agora o novo mito do pvp é &b ${novo_mito}'
+    Todos: '&aO novo mito do PVP é &b ${novo_mito}'

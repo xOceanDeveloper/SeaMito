@@ -1,0 +1,6 @@
+name: SeaMito
+main: com.seastore.loja.Main
+version: v1.0.0-SNAPSHOT
+author: </Ocean Developer>
+commands:
+  mito:

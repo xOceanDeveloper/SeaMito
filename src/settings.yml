@@ -1,0 +1,7 @@
+Mito_Atual: 'nulo'
+Tag_Mito: "&5[Mito]"
+
+Tab:
+  Ativar: false
+  Suffix: '&8$[PVP]'
+  Prefix: '${Tag_Mito}'
